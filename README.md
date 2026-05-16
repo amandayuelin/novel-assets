@@ -9,6 +9,7 @@ Static assets for 晋江小说封面等直链资源。
 | `qianfu-zangli-hou-cover.png` | **前夫葬礼后，我回到十五年前** · 林无患（初版封面） |
 | `qianfu-zangli-hou-cover-2.png` | 同上 · **第二版 / 修订封面** |
 | `qianfu-zangli-hou-cover-3.png` | 同上 · **第三版**（雨夜撑伞竖版） |
+| `qianfu-zangli-hou-cover-4.png` | 同上 · **第四版**（人像 · *A Love Beyond Time*） |
 
 GitHub **raw**（公开仓库 `main` 分支）：
 
@@ -16,4 +17,5 @@ GitHub **raw**（公开仓库 `main` 分支）：
 - https://raw.githubusercontent.com/amandayuelin/novel-assets/main/shi-du-qing-chuan-cover.png  
 - https://raw.githubusercontent.com/amandayuelin/novel-assets/main/qianfu-zangli-hou-cover.png  
 - https://raw.githubusercontent.com/amandayuelin/novel-assets/main/qianfu-zangli-hou-cover-2.png  
-- https://raw.githubusercontent.com/amandayuelin/novel-assets/main/qianfu-zangli-hou-cover-3.png
+- https://raw.githubusercontent.com/amandayuelin/novel-assets/main/qianfu-zangli-hou-cover-3.png  
+- https://raw.githubusercontent.com/amandayuelin/novel-assets/main/qianfu-zangli-hou-cover-4.png
